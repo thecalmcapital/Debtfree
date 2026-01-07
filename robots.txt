@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://debtfreecalc.github.io/sitemap.xml
