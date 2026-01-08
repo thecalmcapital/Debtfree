@@ -27,7 +27,7 @@ export const AboutPage: React.FC = () => {
         <h1 className="text-3xl font-extrabold text-slate-900 mb-6">About DebtFreeCalc</h1>
         
         <p>
-          Welcome to DebtFreeCalc. Our mission is simple: <strong>Empower individuals to break free from the chains of debt through clarity and strategy.</strong>
+          Welcome to DebtFreeCalc. Our mission is simple: <strong>Empower individuals to break free from the chains of debt through orientation clarity and strategy.</strong>
         </p>
 
         <p>
